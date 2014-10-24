@@ -54,3 +54,18 @@ Ideally provide one month's notice to ensure that we can publicise the event ade
 ## What are the system requirements for presenting at vJBUG?
 As long as get a good experience from Google Hangouts, at the location you intend to present from, then you should be fine. In general you should have a decent internet connection, webcam and microphone. For more info see [Google's document on this](https://support.google.com/plus/answer/1216376?hl=en-GB).
 
+## I run a JBUG or JUG and would like to partner with vJBUG. What are my options?
+One of the long-term goals for vJBUG is to draw content from the wider community. In return vJBUG can provide a single publicity machine and an established community waiting to consume the content. We can also provide advice on recording and broadcasting your sessions.
+
+In general we see the following options available for sessions:
+
+| Number | Description | Audience | Speaker | Live Broadcast? | Recorded 
+|--------|-------------|----------|---------|-----------------|---------
+| 1      | Traditional session | Local | Local | No | No 
+| 2      | Traditional Recorded Session | local | Local | No | Yes
+| 3      | Traditional Session with Remote Audience | Local+Remote | Local | Yes | Yes
+| 4      | Virtual Session | Remote | Remote | Yes | Yes
+| 5      | Traditional session with remote speaker | Local | Remote | No | Yes
+| 6      | Virtual Session with local audience | Local+Remote | Remote | Yes | Yes
+
+TODO: finish this section...
