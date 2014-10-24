@@ -59,14 +59,14 @@ One of the long-term goals for vJBUG is to draw content from the wider community
 
 In general we see the following options available for sessions (not all of which would involve vJBUG):
 
-| Number | Description | Audience | Speaker | Live Broadcast? | Recorded 
-|--------|-------------|----------|---------|-----------------|---------
-| 1      | Traditional session | Local | Local | No | No 
-| 2      | Traditional Recorded Session | local | Local | No | Yes
-| 3      | Traditional Session with Remote Audience | Local+Remote | Local | Yes | Yes
-| 4      | Virtual Session | Remote | Remote | Yes | Yes
-| 5      | Traditional session with remote speaker | Local | Remote | No | Yes
-| 6      | Virtual Session with local audience | Local+Remote | Remote | Yes | Yes
+| Description | Audience | Speaker | Live Broadcast? | Recorded 
+|-------------|----------|---------|-----------------|---------
+| Traditional session | Local | Local | No | No 
+| Traditional Recorded Session | local | Local | No | Yes
+| Traditional Session with Remote Audience | Local+Remote | Local | Yes | Yes
+| Virtual Session | Remote | Remote | Yes | Yes
+| Traditional session with remote speaker | Local | Remote | No | Yes
+| Virtual Session with local audience | Local+Remote | Remote | Yes | Yes
 
 For facilitating a remote audience we recomend using "Google Hangouts on Air". As well as being able to broadcast live to a (practically) unlimited number of people, you also get a YouTube recording of the session. We also reccomend using a a web chatroom to allow the remote audience to discuss the content and ask questions. If partnering with vJBUG you will use this one: https://webchat.freenode.net/?channels=vjbug. 
 
