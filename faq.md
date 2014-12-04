@@ -45,9 +45,9 @@ Our community [seems to prefer 17:00 UTC](http://doodle.com/az2w73u2p74sx4h5p3w4
 ## I want to present something, what's my next step?
 Send an email to paul.robinson@redhat.com and meisele@redhat.com with:
 
-1) Your idea for a session
-2) Title and abstract. We don't need this for the initial conversation, but we do need it before the event is scheduled.
-3) Roughly when you would like to present
+1. Your idea for a session
+2. Title and abstract. We don't need this for the initial conversation, but we do need it before the event is scheduled.
+3. Roughly when you would like to present
 
 Ideally provide one month's notice to ensure that we can publicise the event adequately. Note that we can't publicise the event until the title and abstract is provided.
 
