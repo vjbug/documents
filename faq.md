@@ -48,6 +48,7 @@ Send an email to paul.robinson@redhat.com and meisele@redhat.com with:
 1. Your idea for a session
 2. Title and abstract. We don't need this for the initial conversation, but we do need it before the event is scheduled.
 3. Roughly when you would like to present
+ 1. Ideally pick a month that doesn't already have something scheduled at http://www.meetup.com/JBoss-User-Group-Worldwide/
 
 Ideally provide one month's notice to ensure that we can publicise the event adequately. Note that we can't publicise the event until the title and abstract is provided.
 
